@@ -1,0 +1,9 @@
+torch
+diffusers
+transformers
+soundfile
+numpy
+scipy
+librosa
+torchaudio
+julius
